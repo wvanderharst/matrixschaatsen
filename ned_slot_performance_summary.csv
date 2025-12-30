@@ -1,0 +1,73 @@
+Event,Gender,Mode,Selection_Result,Avg_Final_Pos,Win_Prob
+1000 meter (Men),Men,Dynamic,Trial Rank 1,4.181,0.1139
+1000 meter (Men),Men,Dynamic,Trial Rank 2,6.089,0.0325
+1500 meter (Men),Men,Dynamic,Trial Rank 1,6.454,0.0416
+1000 meter (Men),Men,Dynamic,Trial Rank 3,6.837,0.021
+500 meter (Men),Men,Dynamic,Trial Rank 1,7.488,0.1827
+Mass Start (Men),Men,Dynamic,Trial Rank 3,9.094,0.0058
+5000 meter (Men),Men,Dynamic,Trial Rank 1,9.348,0.2283
+1500 meter (Men),Men,Dynamic,Trial Rank 2,9.846,0.0173
+Mass Start (Men),Men,Dynamic,Trial Rank 1,10.789,0.3032
+Mass Start (Men),Men,Dynamic,Trial Rank 2,10.999,0.1949
+5000 meter (Men),Men,Dynamic,Trial Rank 2,11.764,0.0468
+500 meter (Men),Men,Dynamic,Trial Rank 2,13.719,0.0332
+10.000 meter (Men),Men,Dynamic,Trial Rank 1,15.484,0.0014
+10.000 meter (Men),Men,Dynamic,Trial Rank 2,15.74,0.0003
+5000 meter (Men),Men,Dynamic,Trial Rank 3,15.822,0.0119
+1500 meter (Men),Men,Dynamic,Trial Rank 3,16.3,0.0055
+500 meter (Men),Men,Dynamic,Trial Rank 3,16.409,0.0129
+10.000 meter (Men),Men,Dynamic,Trial Rank 3,18.371,0.0003
+1000 meter (Men),Men,Hybrid,Protected 1,3.038,0.1568
+500 meter (Men),Men,Hybrid,Protected 1,5.362,0.2412
+1500 meter (Men),Men,Hybrid,Trial Rank 1,6.454,0.0416
+1000 meter (Men),Men,Hybrid,Trial Rank 2,6.705,0.0109
+1000 meter (Men),Men,Hybrid,Trial Rank 3,7.092,0.0087
+5000 meter (Men),Men,Hybrid,Protected 1,9.374,0.3204
+1500 meter (Men),Men,Hybrid,Trial Rank 2,9.846,0.0173
+Mass Start (Men),Men,Hybrid,Protected 1,10.522,0.4183
+5000 meter (Men),Men,Hybrid,Trial Rank 2,10.635,0.0153
+Mass Start (Men),Men,Hybrid,Trial Rank 3,11.318,0.0
+Mass Start (Men),Men,Hybrid,Trial Rank 2,12.032,0.0798
+500 meter (Men),Men,Hybrid,Trial Rank 2,14.499,0.0052
+10.000 meter (Men),Men,Hybrid,Trial Rank 1,15.484,0.0014
+10.000 meter (Men),Men,Hybrid,Trial Rank 2,15.74,0.0003
+5000 meter (Men),Men,Hybrid,Trial Rank 3,15.947,0.0024
+1500 meter (Men),Men,Hybrid,Trial Rank 3,16.3,0.0055
+500 meter (Men),Men,Hybrid,Trial Rank 3,16.832,0.0017
+10.000 meter (Men),Men,Hybrid,Trial Rank 3,18.371,0.0003
+500 meter (Women),Women,Dynamic,Trial Rank 1,2.272,0.7412
+5000 meter (Women),Women,Dynamic,Trial Rank 1,3.331,0.363
+1000 meter (Women),Women,Dynamic,Trial Rank 1,3.361,0.2173
+3000 meter (Women),Women,Dynamic,Trial Rank 1,4.362,0.1514
+5000 meter (Women),Women,Dynamic,Trial Rank 2,4.384,0.2563
+1000 meter (Women),Women,Dynamic,Trial Rank 2,4.839,0.1441
+1500 meter (Women),Women,Dynamic,Trial Rank 1,6.002,0.5334
+3000 meter (Women),Women,Dynamic,Trial Rank 2,7.227,0.1072
+5000 meter (Women),Women,Dynamic,Trial Rank 3,7.711,0.0809
+500 meter (Women),Women,Dynamic,Trial Rank 2,7.736,0.0522
+1000 meter (Women),Women,Dynamic,Trial Rank 3,8.125,0.0338
+500 meter (Women),Women,Dynamic,Trial Rank 3,8.798,0.0195
+1500 meter (Women),Women,Dynamic,Trial Rank 2,9.928,0.0822
+Mass Start (Women),Women,Dynamic,Trial Rank 1,11.22,0.1818
+3000 meter (Women),Women,Dynamic,Trial Rank 3,11.253,0.0356
+1500 meter (Women),Women,Dynamic,Trial Rank 3,11.766,0.0462
+Mass Start (Women),Women,Dynamic,Trial Rank 2,17.326,0.0291
+Mass Start (Women),Women,Dynamic,Trial Rank 3,20.131,0.0138
+500 meter (Women),Women,Hybrid,Protected 1,1.738,0.8079
+5000 meter (Women),Women,Hybrid,Protected 2,2.179,0.3448
+3000 meter (Women),Women,Hybrid,Protected 1,2.483,0.186
+1000 meter (Women),Women,Hybrid,Protected 2,2.575,0.1877
+1000 meter (Women),Women,Hybrid,Protected 1,3.782,0.2284
+5000 meter (Women),Women,Hybrid,Protected 1,4.245,0.364
+1500 meter (Women),Women,Hybrid,Protected 1,4.371,0.6703
+3000 meter (Women),Women,Hybrid,Protected 2,7.154,0.1057
+500 meter (Women),Women,Hybrid,Trial Rank 2,8.002,0.0176
+5000 meter (Women),Women,Hybrid,Trial Rank 3,8.181,0.0123
+500 meter (Women),Women,Hybrid,Trial Rank 3,8.874,0.008
+1000 meter (Women),Women,Hybrid,Trial Rank 3,9.002,0.0017
+Mass Start (Women),Women,Hybrid,Protected 1,9.363,0.2435
+1500 meter (Women),Women,Hybrid,Trial Rank 2,10.695,0.0267
+1500 meter (Women),Women,Hybrid,Trial Rank 3,11.751,0.0163
+3000 meter (Women),Women,Hybrid,Trial Rank 3,12.135,0.0109
+Mass Start (Women),Women,Hybrid,Trial Rank 2,17.601,0.0023
+Mass Start (Women),Women,Hybrid,Trial Rank 3,20.379,0.0007

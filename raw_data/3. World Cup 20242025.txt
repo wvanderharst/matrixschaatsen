@@ -1,0 +1,646 @@
+3. World Cup 2024/2025
+24. - 26.01.2025
+Olympic Oval (CAN)
+
+5000 meter (Women), 24.01.2025
+
+POS   NAME                     AG       NAT   TIME      DIFF      RECORD   
+1     Joy Beune                Senior   NED   6:45.76             PB       
+2     Merel Conijn             Neo      NED   6:47.44   +1.680             
+3     Martina Sáblíková        Senior   CZE   6:49.01   +3.250    SB       
+4     Francesca Lollobrigida   Senior   ITA   6:51.07   +5.310    NR       
+5     Isabelle Weidemann       Senior   CAN   6:53.65   +7.890    SB       
+6     Ragne Wiklund            Senior   NOR   6:56.64   +10.880            
+7     Sanne In 't Hof          Senior   NED   6:57.72   +11.960            
+8     Valerie Maltais          Senior   CAN   6:57.76   +12.000   PB       
+9     Binyu Yang               Neo      CHN   7:00.84   +15.080   NR       
+10    Marijke Groenewoud       Senior   NED   7:10.10   +24.340            
+11    Ivanie Blondin           Senior   CAN   7:12.20   +26.440   SB       
+12    Momoka Horikawa          Neo      JPN   7:12.45   +26.690            
+
+
+
+1500 meter (Men), 24.01.2025
+
+POS   NAME                 AG       NAT   TIME      DIFF     RECORD   
+1     Jordan Stolz         Neo      USA   1:41.22            TR, SB   
+2     Zhongyan Ning        Senior   CHN   1:42.24   +1.020   SB       
+3     Peder Kongshaug      Neo      NOR   1:42.25   +1.030   NR       
+4     Min-Seok Kim         Senior   HUN   1:42.63   +1.410   NR       
+5     Tim Prins            Neo      NED   1:43.07   +1.850   SB       
+6     Kjeld Nuis           Senior   NED   1:43.09   +1.870            
+7     Sander Eitrem        Neo      NOR   1:43.34   +2.120   SB       
+8     Connor Howe          Senior   CAN   1:43.37   +2.150            
+9     Taiyo Nonomura       Neo      JPN   1:43.87   +2.650   SB       
+10    Wesly Dijs           Senior   NED   1:44.14   +2.920            
+11    Kazuya Yamada        Neo      JPN   1:44.61   +3.390   SB       
+12    Daniele Di Stefano   Senior   ITA   1:44.68   +3.460            
+13    Seitaro Ichinohe     Senior   JPN   1:45.00   +3.780   SB       
+14    Bart Swings          Senior   BEL   1:45.02   +3.800   SB       
+15    Ryota Kojima         Senior   JPN   1:45.10   +3.880   SB       
+16    Tijmen Snel          Senior   NED   1:45.17   +3.950            
+17    Stefan Emele         Senior   GER   1:45.34   +4.120            
+18    Didrik Eng Strand    A2       NOR   1:45.57   +4.350   SB       
+19    Joep Wennemars       Neo      NED   1:45.75   +4.530            
+20    Ethan Cepuran        Senior   USA   1:46.45   +5.230            
+
+
+
+1000 meter (Women), 24.01.2025
+
+POS   NAME                        AG       NAT   TIME      DIFF     RECORD    
+1     Miho Takagi                 Senior   JPN   1:13.10            SB        
+2     Jutta Leerdam               Senior   NED   1:13.46   +0.360   SB        
+3     Mei Han                     Senior   CHN   1:13.58   +0.480   SB        
+4     Angel Daleman               A1       NED   1:14.22   +1.120   TRJ, PB   
+5     Brittany Bowe               Senior   USA   1:14.28   +1.180             
+6     Andżelika Wójcik            Senior   POL   1:14.47   +1.370             
+7     Kimi Goetz                  Senior   USA   1:14.66   +1.560             
+8     Béatrice Lamarche           Senior   CAN   1:14.79   +1.690   SB        
+9     Ayano Sato                  Senior   JPN   1:15.03   +1.930   SB        
+10    Natalia Jabrzyk             Senior   POL   1:15.03   +1.934   PB        
+11    Suzanne Schulting           Senior   NED   1:15.07   +1.970   SB        
+12    Antoinette Rijpma-de Jong   Senior   NED   1:15.10   +2.000             
+13    Lea Sophie Scholz           Senior   GER   1:15.17   +2.075   PB        
+14    Yukino Yoshida              Neo      JPN   1:15.17   +2.078   SB        
+15    Rio Yamada                  Senior   JPN   1:15.18   +2.080   SB        
+16    Min-Seon Kim                Senior   KOR   1:15.29   +2.190   SB        
+17    Sofia Thorup                Senior   DEN   1:15.50   +2.400             
+18    Karolina Bosiek             Senior   POL   1:15.54   +2.440   SB        
+19    Vanessa Herzog              Senior   AUT   1:16.06   +2.960             
+20    Nadezhda Morozova           Senior   KAZ   1:16.72   +3.620             
+
+
+
+5000 meter (Women), 24.01.2025
+
+POS   NAME                     AG       NAT   TIME      DIFF      RECORD    
+1     Josie Hofmann            Senior   GER   6:58.09             PB        
+2     Sandrine Tas             Senior   BEL   7:00.63   +2.540    NR        
+3     Laura Hall               Neo      CAN   7:03.35   +5.260              
+4     Ahenaer Adake            Senior   CHN   7:03.76   +5.670    PB        
+5     Maira Jasch              Neo      GER   7:04.13   +6.040    SB        
+6     Zhien Tai                A1       CHN   7:04.28   +6.190    NRJ       
+7     Greta Myers              Neo      USA   7:04.87   +6.780    SB        
+8     Yuuka Takahashi          Neo      JPN   7:05.41   +7.320    PB        
+9     Nikola Zdráhalova        Senior   CZE   7:05.59   +7.500    PB        
+10    Wenjing Jin              Neo      CHN   7:06.84   +8.750    PB        
+11    Rose-Anne Grenier        Senior   CAN   7:08.48   +10.390   PB        
+12    Alice Marletti           Neo      ITA   7:09.15   +11.060   PB        
+13    Josephine Schlörb        Neo      GER   7:09.96   +11.870   PB        
+14    Zuzana Kursova           Neo      CZE   7:10.08   +11.990   PB        
+15    Violette Braun           A1       FRA   7:14.21   +16.120   NRJ, NR   
+16    Kristina Shumekova       A1       KAZ   7:16.63   +18.540   NRJ       
+17    Aurora Grinden Løvås     Neo      NOR   7:17.10   +19.010   PB        
+18    Lemi Williamson          Senior   JPN   7:20.02   +21.930   SB        
+19    Yuna Onodera             Senior   JPN   7:20.36   +22.270   SB        
+20    Elisa Dul                Senior   NED   7:20.87   +22.780             
+21    Nadja Wenger             Senior   SUI   7:21.24   +23.150   SB        
+22    Ramona Härdi             Senior   SUI   7:21.26   +23.170   SB        
+23    Anna Molnar              Neo      AUT   7:21.46   +23.370   SB        
+24    Magdalena Czyszczoń      Senior   POL   7:22.74   +24.650   SB        
+25    Laura Lorenzato          Senior   ITA   7:24.70   +26.610             
+26    Katerina Kainova         Neo      CZE   7:25.40   +27.310   PB        
+27    Hanna Svenni             Neo      NOR   7:35.43   +37.340   PB        
+28    Marija Degen             A2       KAZ   7:38.14   +40.050   PB        
+DQ    Michelle Uhrig           Senior   GER   -                             
+
+
+
+1500 meter (Men), 24.01.2025
+
+POS   NAME                      AG       NAT   TIME      DIFF     RECORD    
+1     Hendrik Dombek            Senior   GER   1:43.73            NR        
+2     Emery Lehman              Senior   USA   1:44.20   +0.470   SB        
+3     Hanbin Liu                A1       CHN   1:44.22   +0.490   NRJ       
+4     David Larue               Senior   CAN   1:44.64   +0.910   SB        
+5     Allan Dahl Johansson      Senior   NOR   1:44.66   +0.930   SB        
+6     Jaewon Chung              Senior   KOR   1:44.69   +0.960   SB        
+7     Metoděj Jílek             A2       CZE   1:44.98   +1.250   NRJ, NR   
+8     Gabriel Odor              Senior   AUT   1:45.21   +1.480   SB        
+9     Livio Wenger              Senior   SUI   1:45.24   +1.510   SB        
+10    Hyeon-Min Oh              Senior   KOR   1:45.52   +1.790   PB        
+11    Jake Weidemann            Senior   CAN   1:45.63   +1.900   SB        
+12    Shoumu Sasaki             A2       JPN   1:45.64   +1.916   SB        
+13    Riccardo Lorello          Neo      ITA   1:45.64   +1.919   SB        
+14    Szymon Palka              Senior   POL   1:45.68   +1.950   PB        
+15    Kristian Gamme Ulekleiv   Senior   NOR   1:45.93   +2.200   SB        
+16    Valentin Thiebault        Senior   FRA   1:45.96   +2.230   SB        
+17    Moritz Klein              Senior   GER   1:46.07   +2.340             
+18    Max Halyk                 Senior   CAN   1:46.21   +2.480             
+19    Indra Medard              Senior   BEL   1:46.32   +2.590   SB        
+20    Francesco Betti           Senior   ITA   1:46.60   +2.870             
+21    Baoshuo Pan               A1       CHN   1:46.63   +2.900   SB        
+22    Luca Veeman               Neo      CAN   1:46.78   +3.050   SB        
+23    Chuanyi Sun               Neo      CHN   1:46.86   +3.130   SB        
+24    Andrea Giovannini         Senior   ITA   1:46.91   +3.180   SB        
+25    Mathias Vosté             Senior   BEL   1:46.95   +3.220   SB        
+26    Conor Mcdermott-Mostowy   Senior   USA   1:47.22   +3.490             
+27    Wei-Lin Tai               Senior   TPE   1:47.65   +3.920             
+28    Demyan Gavrilov           Senior   KAZ   1:47.92   +4.190   SB        
+29    Manuel Robla              Neo      ESP   1:47.97   +4.240   NR        
+30    Mathieu Belloir           Senior   FRA   1:48.96   +5.230             
+31    Aleksandr Klenko          Senior   KAZ   1:49.29   +5.560   SB        
+32    Flavio Gross              Neo      SUI   1:50.47   +6.740             
+33    Josh Whyte                Senior   NZL   1:52.04   +8.310   SB        
+DNF   Hojun Yang                Neo      KOR   -                            
+
+
+
+1000 meter (Women), 24.01.2025
+
+POS   NAME                     AG       NAT   TIME      DIFF     RECORD    
+1     Qi Yin                   Senior   CHN   1:14.01            SB        
+2     Kristina Silaeva         Senior   KAZ   1:14.39   +0.380   PB        
+3     Marrit Fledderus         Senior   NED   1:14.47   +0.460   SB        
+4     Isabelle van Elst        Senior   BEL   1:14.72   +0.710   NR        
+5     Soo-Min Kang             Neo      KOR   1:14.86   +0.850   PB        
+6     Anna Ostlender           Neo      GER   1:14.90   +0.890   SB        
+7     Na-Hyeon Lee             A2       KOR   1:15.06   +1.050   TRJ, SB   
+8     Nikola Zdráhalova        Senior   CZE   1:15.26   +1.250             
+9     Rose Laliberté-Roy       Senior   CAN   1:15.72   +1.710   PB        
+10    Rin Kosaka               Neo      JPN   1:15.78   +1.770   PB        
+11    Kaja Ziomek-Nogal        Senior   POL   1:15.81   +1.800   SB        
+12    Greta Myers              Neo      USA   1:15.85   +1.840   PB        
+13    Brooklyn McDougall       Senior   CAN   1:16.00   +1.990   SB        
+14    Kaitlyn McGregor         Senior   SUI   1:16.01   +2.000   SB        
+15    Ying-Chu Chen            Senior   TPE   1:16.26   +2.250   SB        
+16    Maddison Pearman         Senior   CAN   1:16.27   +2.260   SB        
+17    Abigail Mccluskey        Senior   CAN   1:16.31   +2.300   SB        
+18    Chrysta Rands-Evans      Senior   USA   1:16.53   +2.520   SB        
+19    Ellia Smeding            Senior   GBR   1:16.54   +2.530   SB        
+20    Kyeong-Joo Kim           Neo      KOR   1:16.56   +2.550   PB        
+21    Giorgia Aiello           Neo      ITA   1:16.67   +2.660             
+22    Dongxue Xi               Senior   CHN   1:16.68   +2.670   SB        
+23    Mia Manganello           Senior   USA   1:16.70   +2.690             
+24    Min-Jee Kim              Senior   KOR   1:16.76   +2.750   SB        
+25    Julie Nistad Samsonsen   Senior   NOR   1:16.89   +2.880   SB        
+26    Fran Vanhoutte           Neo      BEL   1:16.99   +2.980             
+27    Carina Jagtøyen          Senior   NOR   1:17.12   +3.112   PB        
+28    Mihaela Hogas            Senior   ROU   1:17.12   +3.119   SB        
+29    Darja Vazhenina          Neo      KAZ   1:17.18   +3.170   PB        
+30    Kristina Shumekova       A1       KAZ   1:17.37   +3.360   PB        
+31    Marlen Ehseluns          Neo      GER   1:17.56   +3.550             
+32    Vera Güntert             Senior   SUI   1:17.81   +3.800   SB        
+33    Meng Xu                  Senior   CHN   1:18.31   +4.300             
+34    Sara Cabrera             Senior   ESP   1:19.13   +5.120   SB        
+35    Laura Kivioja            Neo      FIN   1:19.71   +5.700             
+
+
+
+10.000 meter (Men), 25.01.2025
+
+POS   NAME               AG       NAT   TIME       DIFF      RECORD         
+1     Davide Ghiotto     Senior   ITA   12:25.69             WR             
+2     Metoděj Jílek      A2       CZE   12:37.81   +12.120   WRJ, NR, TRJ   
+3     Sander Eitrem      Neo      NOR   12:38.04   +12.350   NR             
+4     Beau Snellink      Senior   NED   12:39.34   +13.650   PB             
+5     Graeme Fish        Senior   CAN   12:40.10   +14.410   SB             
+6     Chris Huizinga     Senior   NED   12:45.12   +19.430                  
+7     Casey Dawson       Senior   USA   12:45.43   +19.740   NR             
+8     Bart Swings        Senior   BEL   12:53.86   +28.170   NR             
+9     Michele Malfatti   Senior   ITA   12:57.09   +31.400   SB             
+10    Ted-Jan Bloemen    Senior   CAN   13:01.14   +35.450   SB             
+11    Patrick Beckert    Senior   GER   13:02.28   +36.590   SB             
+12    Marcel Bosker      Senior   NED   13:06.46   +40.770                  
+
+
+
+1500 meter (Women), 25.01.2025
+
+POS   NAME                        AG       NAT   TIME      DIFF     RECORD     
+1     Joy Beune                   Senior   NED   1:51.72            SB         
+2     Miho Takagi                 Senior   JPN   1:51.85   +0.130   SB         
+3     Antoinette Rijpma-de Jong   Senior   NED   1:52.17   +0.450   SB         
+4     Angel Daleman               A1       NED   1:52.38   +0.660   WRJ, TRJ   
+5     Francesca Lollobrigida      Senior   ITA   1:53.65   +1.930              
+6     Brittany Bowe               Senior   USA   1:53.98   +2.260   SB         
+7     Mei Han                     Senior   CHN   1:54.00   +2.280   SB         
+8     Ragne Wiklund               Senior   NOR   1:54.47   +2.750              
+9     Valerie Maltais             Senior   CAN   1:54.72   +3.000   SB         
+10    Ivanie Blondin              Senior   CAN   1:54.80   +3.080              
+11    Isabelle van Elst           Senior   BEL   1:55.32   +3.608   SB         
+      Greta Myers                 Neo      USA   1:55.32   +3.608   SB         
+13    Martina Sáblíková           Senior   CZE   1:55.50   +3.780   SB         
+14    Nadezhda Morozova           Senior   KAZ   1:55.51   +3.790   SB         
+15    Momoka Horikawa             Neo      JPN   1:55.74   +4.020   SB         
+16    Binyu Yang                  Neo      CHN   1:55.85   +4.130              
+17    Ji-Woo Park                 Senior   KOR   1:56.33   +4.610   SB         
+18    Melissa Wijfje              Senior   NED   1:56.35   +4.630              
+19    Mia Manganello              Senior   USA   1:56.56   +4.840   SB         
+20    Marijke Groenewoud          Senior   NED   1:58.73   +7.010              
+
+
+
+1000 meter (Men), 25.01.2025
+
+POS   NAME               AG       NAT   TIME      DIFF     RECORD   
+1     Jordan Stolz       Neo      USA   1:05.90            TR, SB   
+2     Jenning de Boo     Neo      NED   1:06.05   +0.150   NR       
+3     Kjeld Nuis         Senior   NED   1:06.73   +0.830   SB       
+4     Tim Prins          Neo      NED   1:06.80   +0.900   SB       
+5     Zhongyan Ning      Senior   CHN   1:06.98   +1.080   SB       
+6     Marten Liiv        Senior   EST   1:07.14   +1.240   SB       
+7     Tatsuya Shinhama   Senior   JPN   1:07.16   +1.260   SB       
+8     Damian Żurek       Senior   POL   1:07.19   +1.290   SB       
+9     Ryota Kojima       Senior   JPN   1:07.64   +1.741            
+10    Min-Seok Kim       Senior   HUN   1:07.64   +1.742   PB       
+11    Laurent Dubreuil   Senior   CAN   1:07.73   +1.830   SB       
+12    Cooper Mcleod      Neo      USA   1:07.75   +1.850   SB       
+13    Taiyo Nonomura     Neo      JPN   1:07.79   +1.890   SB       
+14    Ziwen Lian         Senior   CHN   1:08.13   +2.230   SB       
+15    Joep Wennemars     Neo      NED   1:08.16   +2.260            
+16    Zach Stoppelmoor   Senior   USA   1:08.17   +2.270   SB       
+17    Sanghyeok Cho      Senior   KOR   1:08.22   +2.320   SB       
+18    Mathias Vosté      Senior   BEL   1:08.23   +2.330   SB       
+19    Moritz Klein       Senior   GER   1:08.47   +2.570   SB       
+20    Stefan Emele       Senior   GER   1:08.72   +2.820            
+
+
+
+1500 meter (Women), 25.01.2025
+
+POS   NAME                     AG       NAT   TIME      DIFF      RECORD   
+1     Nikola Zdráhalova        Senior   CZE   1:54.79                      
+2     Qi Yin                   Senior   CHN   1:54.92   +0.130    SB       
+3     Lea Sophie Scholz        Senior   GER   1:55.39   +0.600    SB       
+4     Natalia Jabrzyk          Senior   POL   1:55.75   +0.960    PB       
+5     Ayano Sato               Senior   JPN   1:56.03   +1.240             
+6     Kimi Goetz               Senior   USA   1:56.04   +1.250             
+7     Sofia Thorup             Senior   DEN   1:56.17   +1.380             
+8     Soo-Min Kang             Neo      KOR   1:56.23   +1.440    SB       
+9     Rio Yamada               Senior   JPN   1:56.67   +1.880    SB       
+10    Yuna Onodera             Senior   JPN   1:57.76   +2.970    SB       
+11    Kaitlyn McGregor         Senior   SUI   1:57.88   +3.090    SB       
+12    Abigail Mccluskey        Senior   CAN   1:57.95   +3.160    SB       
+13    Béatrice Lamarche        Senior   CAN   1:58.16   +3.370             
+14    Marlen Ehseluns          Neo      GER   1:58.38   +3.590             
+15    Sandrine Tas             Senior   BEL   1:58.53   +3.740    SB       
+16    Aurora Grinden Løvås     Neo      NOR   1:58.82   +4.030    SB       
+17    Yoon-Jee Kim             Neo      KOR   1:58.88   +4.090    PB       
+18    Kristina Shumekova       A1       KAZ   1:59.02   +4.230    NRJ      
+19    Veronica Luciani         Senior   ITA   1:59.25   +4.460    PB       
+20    Ellia Smeding            Senior   GBR   1:59.37   +4.580    SB       
+21    Ramona Härdi             Senior   SUI   1:59.81   +5.020    SB       
+22    Alexa Scott              Senior   CAN   1:59.85   +5.060             
+23    Karolina Bosiek          Senior   POL   2:00.41   +5.620    SB       
+24    Marija Degen             A2       KAZ   2:01.61   +6.820             
+25    Xiangyu Chen             Senior   CHN   2:02.61   +7.820             
+26    Magdalena Czyszczoń      Senior   POL   2:05.43   +10.640            
+
+
+
+1000 meter (Men), 25.01.2025
+
+POS   NAME                      AG       NAT   TIME      DIFF     RECORD   
+1     David Bosa                Senior   ITA   1:07.41            SB       
+2     Hendrik Dombek            Senior   GER   1:07.48   +0.070   SB       
+3     Connor Howe               Senior   CAN   1:07.64   +0.230            
+4     Marek Kania               Senior   POL   1:07.67   +0.260   SB       
+5     Kazuya Yamada             Neo      JPN   1:07.74   +0.330   SB       
+6     Anders Johnson            Senior   CAN   1:07.93   +0.520            
+7     Min Kyu Cha               Senior   KOR   1:08.04   +0.630   SB       
+8     Peder Kongshaug           Neo      NOR   1:08.27   +0.860   SB       
+9     Bjørn Magnussen           Senior   NOR   1:08.35   +0.940   SB       
+10    David Larue               Senior   CAN   1:08.36   +0.950            
+11    Conor Mcdermott-Mostowy   Senior   USA   1:08.38   +0.970   SB       
+12    Yankun Zhao               Neo      CAN   1:08.44   +1.030            
+13    Tijmen Snel               Senior   NED   1:08.48   +1.070            
+14    Zhihan Deng               Neo      CHN   1:08.50   +1.090   SB       
+15    Daniele Di Stefano        Senior   ITA   1:08.75   +1.340   SB       
+16    Allan Dahl Johansson      Senior   NOR   1:08.79   +1.380   SB       
+17    Nil Llop Izquierdo        Neo      ESP   1:08.86   +1.450            
+18    Valentin Thiebault        Senior   FRA   1:08.87   +1.460   SB       
+19    Henrik Fagerli Rukke      Senior   NOR   1:08.94   +1.530   SB       
+20    Wei-Lin Tai               Senior   TPE   1:09.02   +1.610   SB       
+21    Francesco Betti           Senior   ITA   1:09.04   +1.630   PB       
+22    Gabriel Odor              Senior   AUT   1:09.13   +1.720   SB       
+23    Altaj Zjardembekuly       Senior   KAZ   1:09.20   +1.790   PB       
+24    Robbe Beelen              Neo      BEL   1:09.69   +2.280   SB       
+25    Piotr Michalski           Senior   POL   1:09.83   +2.420            
+26    Marcin Bachanek           Senior   POL   1:09.96   +2.550   SB       
+27    Haonan Du                 Senior   CHN   1:10.71   +3.300            
+28    Masaya Yamada             Senior   JPN   1:10.83   +3.420            
+29    Cosmin Nedelea            Senior   ROU   1:10.88   +3.470   SB       
+30    Daniel Milagros           Neo      ESP   1:11.13   +3.720            
+31    Oliver Grob               Senior   SUI   1:11.24   +3.830            
+DQ    Tuukka Suomalainen        Neo      FIN   -                           
+DQ    Hyeon-Min Oh              Senior   KOR   -                           
+
+
+
+10.000 meter (Men), 25.01.2025
+
+POS   NAME                      AG       NAT   TIME       DIFF        RECORD    
+1     Felix Maly                Senior   GER   12:43.42               NR        
+2     Timothy Loubineaud        Senior   FRA   12:44.18   +0.760      NR        
+3     Jorrit Bergsma            Senior   NED   12:47.39   +3.970                
+4     Vladimir Semirunniy       Neo      POL   12:50.05   +6.630      NR        
+5     Hanbin Liu                A1       CHN   12:59.30   +15.880     NRJ, NR   
+6     Riccardo Lorello          Neo      ITA   12:59.52   +16.100     SB        
+7     Yu Wu                     Senior   CHN   13:01.06   +17.640     PB        
+8     Sigurd Henriksen          Neo      NOR   13:01.84   +18.420     SB        
+9     Andrea Giovannini         Senior   ITA   13:03.00   +19.580     SB        
+10    Seung-Hoon Lee            Senior   KOR   13:04.80   +21.380     SB        
+11    Riku Tsuchiya             Senior   JPN   13:06.77   +23.350     PB        
+12    Fridtjof Petzold          Senior   GER   13:08.75   +25.330               
+13    Ethan Cepuran             Senior   USA   13:08.97   +25.550     SB        
+14    Kristian Gamme Ulekleiv   Senior   NOR   13:09.09   +25.670     PB        
+15    Zhenlong Cong             Neo      CHN   13:10.03   +26.610     SB        
+16    Jason Suttels             Senior   BEL   13:10.85   +27.430     PB        
+17    Marwin Talsma             Senior   NED   13:11.20   +27.780               
+18    Thibault Métraux          Neo      SUI   13:12.73   +29.310     NR        
+19    Taiyo Morino              Neo      JPN   13:14.57   +31.150     SB        
+20    Livio Wenger              Senior   SUI   13:16.42   +33.000     PB        
+21    Viktor Hald Thorup        Senior   DEN   13:17.88   +34.460     SB        
+22    Seitaro Ichinohe          Senior   JPN   13:25.54   +42.120               
+23    Hallgeir Engebråten       Senior   NOR   13:25.76   +42.340     SB        
+24    Vitaliy Chshigolev        Senior   KAZ   13:25.80   +42.380     PB        
+25    Daniel Hall               Neo      CAN   13:26.84   +43.420     PB        
+26    Shoumu Sasaki             A2       JPN   13:30.93   +47.510     SB        
+27    Lukas Stekly              Neo      SVK   13:33.94   +50.520               
+28    Peter Michael             Senior   NZL   13:37.38   +53.960     SB        
+29    Nichika Endo              Senior   JPN   13:40.37   +56.950               
+30    Jonathan Tobon            Neo      USA   13:45.83   +1.02.410   PB        
+31    Alemasi Kahanbai          Senior   CHN   13:49.37   +1.05.950   SB        
+32    Giovanni Trebouta         Senior   FRA   13:57.36   +1.13.940   SB        
+DNF   Aimé Perreault            Neo      CAN   -                                
+
+
+
+Team Sprint (Women), 26.01.2025
+
+POS   NAME                       AG       NAT   TIME      DIFF     RECORD   
+1     Béatrice Lamarche          Senior   CAN   1:24.90            NR       
+1     Ivanie Blondin             Senior   CAN   1:24.90            NR       
+1     Carolina Hiller-Donnelly   Senior   CAN   1:24.90            NR       
+2     Andżelika Wójcik           Senior   POL   1:26.02   +1.120   PB       
+2     Kaja Ziomek-Nogal          Senior   POL   1:26.02   +1.120   PB       
+2     Karolina Bosiek            Senior   POL   1:26.02   +1.120   PB       
+3     Kristina Silaeva           Senior   KAZ   1:26.36   +1.460   NR       
+3     Darja Vazhenina            Neo      KAZ   1:26.36   +1.460   NR       
+3     Nadezhda Morozova          Senior   KAZ   1:26.36   +1.460   NR       
+4     Marlen Ehseluns            Neo      GER   1:27.63   +2.730   NR       
+4     Anna Ostlender             Neo      GER   1:27.63   +2.730   NR       
+4     Sophie Warmuth             Neo      GER   1:27.63   +2.730   NR       
+5     Julie Nistad Samsonsen     Senior   NOR   1:29.32   +4.420   SB       
+5     Carina Jagtøyen            Senior   NOR   1:29.32   +4.420   SB       
+5     Aurora Grinden Løvås       Neo      NOR   1:29.32   +4.420   SB       
+DQ    Shihui Yu                  A2       CHN   -                           
+DQ    Ruining Tian               Senior   CHN   -                           
+DQ    Mei Han                    Senior   CHN   -                           
+DQ    Femke Kok                  Senior   NED   -                           
+DQ    Suzanne Schulting          Senior   NED   -                           
+DQ    Angel Daleman              A1       NED   -                           
+
+
+
+Team Sprint (Men), 26.01.2025
+
+POS   NAME                     AG       NAT   TIME      DIFF     RECORD   
+1     Zach Stoppelmoor         Senior   USA   1:16.98            WR       
+1     Cooper Mcleod            Neo      USA   1:16.98            WR       
+1     Austin Kleba             Senior   USA   1:16.98            WR       
+2     Stefan Westenbroek       Neo      NED   1:17.54   +0.560   SB       
+2     Jenning de Boo           Neo      NED   1:17.54   +0.560   SB       
+2     Tim Prins                Neo      NED   1:17.54   +0.560   SB       
+3     Damian Żurek             Senior   POL   1:17.58   +0.600   SB       
+3     Piotr Michalski          Senior   POL   1:17.58   +0.600   SB       
+3     Marek Kania              Senior   POL   1:17.58   +0.600   SB       
+4     Anders Johnson           Senior   CAN   1:17.75   +0.770   SB       
+4     Laurent Dubreuil         Senior   CAN   1:17.75   +0.770   SB       
+4     Connor Howe              Senior   CAN   1:17.75   +0.770   SB       
+5     Joon-Ho Kim              Senior   KOR   1:18.82   +1.840   NR       
+5     Min Kyu Cha              Senior   KOR   1:18.82   +1.840   NR       
+5     Sanghyeok Cho            Senior   KOR   1:18.82   +1.840   NR       
+6     Moritz Klein             Senior   GER   1:19.77   +2.790   SB       
+6     Hendrik Dombek           Senior   GER   1:19.77   +2.790   SB       
+6     Stefan Emele             Senior   GER   1:19.77   +2.790   SB       
+7     Bin Liu                  A2       CHN   1:22.66   +5.680            
+7     Haonan Du                Senior   CHN   1:22.66   +5.680   SB       
+7     Ziwen Lian               Senior   CHN   1:22.66   +5.680            
+DQ    Nikita Vazhenin          Neo      KAZ   -                           
+DQ    Artur Galiyev            Senior   KAZ   -                           
+DQ    Altaj Zjardembekuly      Senior   KAZ   -                           
+DQ    Pål Myhren Kristensen    Senior   NOR   -                           
+DQ    Henrik Fagerli Rukke     Senior   NOR   -                           
+DQ    Bjørn Magnussen          Senior   NOR   -                           
+
+
+
+500 meter (Women), 26.01.2025
+
+POS   NAME                       AG       NAT   TIME    DIFF     RECORD   
+1     Femke Kok                  Senior   NED   37.01                     
+2     Andżelika Wójcik           Senior   POL   37.16   +0.150   SB       
+3     Kurumi Inagawa             Senior   JPN   37.24   +0.230   PB       
+4     Kristina Silaeva           Senior   KAZ   37.25   +0.240   NR       
+5     Yukino Yoshida             Neo      JPN   37.46   +0.450   SB       
+6     Min-Seon Kim               Senior   KOR   37.47   +0.460   SB       
+7     Kaja Ziomek-Nogal          Senior   POL   37.49   +0.480   SB       
+8     Dione Voskamp              Senior   NED   37.51   +0.500   PB       
+9     Kimi Goetz                 Senior   USA   37.69   +0.680            
+10    Suzanne Schulting          Senior   NED   37.78   +0.770            
+11    Ruining Tian               Senior   CHN   37.79   +0.780   SB       
+12    Jutta Leerdam              Senior   NED   37.80   +0.790            
+13    Ying-Chu Chen              Senior   TPE   37.85   +0.840   NR       
+14    Karolina Bosiek            Senior   POL   37.86   +0.850   PB       
+15    Brittany Bowe              Senior   USA   37.89   +0.880            
+16    Carolina Hiller-Donnelly   Senior   CAN   37.95   +0.940            
+17    Vanessa Herzog             Senior   AUT   37.96   +0.950            
+18    Jingziqian Wang            Neo      CHN   38.15   +1.140            
+19    Sophie Warmuth             Neo      GER   38.39   +1.380            
+20    Erin Jackson               Senior   USA   40.26   +3.250            
+
+
+
+500 meter (Men), 26.01.2025
+
+POS   NAME                  AG       NAT   TIME      DIFF      RECORD   
+1     Jordan Stolz          Neo      USA   33.85               SB       
+2     Jenning de Boo        Neo      NED   33.87     +0.020    NR       
+3     Damian Żurek          Senior   POL   34.07     +0.220    NR       
+4     Marek Kania           Senior   POL   34.12     +0.270    SB       
+5     Laurent Dubreuil      Senior   CAN   34.14     +0.290    SB       
+6     Cooper Mcleod         Neo      USA   34.15     +0.300    SB       
+7     Joon-Ho Kim           Senior   KOR   34.17     +0.320    SB       
+8     Marten Liiv           Senior   EST   34.31     +0.460    NR       
+9     Tatsuya Shinhama      Senior   JPN   34.37     +0.520    SB       
+10    Wataru Morishige      Senior   JPN   34.41     +0.560    SB       
+      Sebastian Diniz       Neo      NED   34.41     +0.560    SB       
+12    Bjørn Magnussen       Senior   NOR   34.43     +0.580    SB       
+13    Tingyu Gao            Senior   CHN   34.48     +0.630    SB       
+14    Stefan Westenbroek    Neo      NED   34.50     +0.650    SB       
+15    Merijn Scheperkamp    Senior   NED   34.53     +0.680             
+16    Sanghyeok Cho         Senior   KOR   34.55     +0.700    SB       
+17    Zach Stoppelmoor      Senior   USA   34.65     +0.800    SB       
+18    Altaj Zjardembekuly   Senior   KAZ   34.73     +0.880    SB       
+19    Ziwen Lian            Senior   CHN   35.14     +1.290             
+20    Katsuhiro Kuratsubo   Senior   JPN   1:06.65   +32.800            
+
+
+
+Mass Start (Men), 26.01.2025
+
+POS   NAME                       AG       NAT   TIME      DIFF      RECORD   
+1     Timothy Loubineaud         Senior   FRA   7:50.14                      
+2     Fridtjof Petzold           Senior   GER   7:50.48   +0.340             
+3     Indra Medard               Senior   BEL   7:50.74   +0.600             
+4     Seung-Hoon Lee             Senior   KOR   7:54.38   +4.240             
+5     Daniele Di Stefano         Senior   ITA   7:54.60   +4.460             
+6     Bart Swings                Senior   BEL   7:54.63   +4.490             
+7     Andrea Giovannini          Senior   ITA   7:54.68   +4.540             
+8     Gabriel Odor               Senior   AUT   7:54.93   +4.790             
+9     Ethan Cepuran              Senior   USA   7:54.94   +4.800             
+10    Albertus (Bart) Hoolwerf   Senior   NED   7:55.41   +5.270             
+11    Shoumu Sasaki              A2       JPN   7:55.59   +5.450             
+12    David Larue                Senior   CAN   7:55.65   +5.510             
+13    Livio Wenger               Senior   SUI   7:56.11   +5.970             
+14    Mathieu Belloir            Senior   FRA   7:56.49   +6.350             
+15    Jorrit Bergsma             Senior   NED   7:56.51   +6.370             
+16    Allan Dahl Johansson       Senior   NOR   7:57.30   +7.160             
+17    Felix Maly                 Senior   GER   7:57.82   +7.680             
+18    Didrik Eng Strand          A2       NOR   7:58.21   +8.070             
+19    Jaewon Chung               Senior   KOR   7:58.77   +8.630             
+20    Metoděj Jílek              A2       CZE   8:16.57   +26.430            
+
+
+
+Mass Start (Women), 26.01.2025
+
+POS   NAME                     AG       NAT   TIME      DIFF      RECORD   
+1     Greta Myers              Neo      USA   8:36.64                      
+2     Wenjing Jin              Neo      CHN   8:44.38   +7.740             
+3     Michelle Uhrig           Senior   GER   8:44.63   +7.990             
+4     Ivanie Blondin           Senior   CAN   8:44.97   +8.330             
+5     Marijke Groenewoud       Senior   NED   8:45.65   +9.010             
+6     Natalia Jabrzyk          Senior   POL   8:57.27   +20.630            
+7     Binyu Yang               Neo      CHN   8:45.92   +9.280             
+8     Valerie Maltais          Senior   CAN   8:45.95   +9.310             
+9     Mia Manganello           Senior   USA   8:46.10   +9.460             
+10    Fran Vanhoutte           Neo      BEL   8:46.87   +10.230            
+11    Ramona Härdi             Senior   SUI   8:47.11   +10.470            
+12    Momoka Horikawa          Neo      JPN   8:47.18   +10.540            
+13    Elisa Dul                Senior   NED   8:47.19   +10.550            
+14    Ji-Woo Park              Senior   KOR   8:47.69   +11.050            
+15    Kaitlyn McGregor         Senior   SUI   8:48.88   +12.240            
+16    Sandrine Tas             Senior   BEL   8:50.20   +13.560            
+17    Josie Hofmann            Senior   GER   8:52.59   +15.950            
+18    Violette Braun           A1       FRA   8:54.21   +17.570            
+19    Aurora Grinden Løvås     Neo      NOR   8:55.99   +19.350            
+20    Yoon-Jee Kim             Neo      KOR   9:06.88   +30.240            
+
+
+
+500 meter (Women), 26.01.2025
+
+POS   NAME                            AG       NAT   TIME    DIFF     RECORD    
+1     Na-Hyeon Lee                    A2       KOR   37.44            TRJ, SB   
+2     Serena Pergher                  Neo      ITA   37.62   +0.189   NR        
+      Miho Takagi                     Senior   JPN   37.62   +0.189   SB        
+4     Marrit Fledderus                Senior   NED   37.66   +0.220   SB        
+5     Rio Yamada                      Senior   JPN   38.18   +0.740             
+6     Béatrice Lamarche               Senior   CAN   38.29   +0.850             
+7     Julie Nistad Samsonsen          Senior   NOR   38.40   +0.963   SB        
+8     Fran Vanhoutte                  Neo      BEL   38.40   +0.965   NR        
+9     Sofia Thorup                    Senior   DEN   38.42   +0.980             
+10    Rose Laliberté-Roy              Senior   CAN   38.46   +1.020             
+11    Brooklyn McDougall              Senior   CAN   38.49   +1.050             
+12    Shihui Yu                       A2       CHN   38.50   +1.060             
+13    Kako Yamane                     Senior   JPN   38.59   +1.150   SB        
+14    Martyna Baran                   Senior   POL   38.61   +1.170   SB        
+15    Min-Jee Kim                     Senior   KOR   38.62   +1.182   SB        
+16    Isabelle van Elst               Senior   BEL   38.62   +1.184   SB        
+17    Chrysta Rands-Evans             Senior   USA   38.65   +1.210             
+18    Chae-Eun Park                   Neo      KOR   38.67   +1.230   SB        
+19    Giorgia Aiello                  Neo      ITA   38.70   +1.260             
+20    Meng Xu                         Senior   CHN   38.75   +1.310             
+21    Nikola Zdráhalova               Senior   CZE   38.75   +1.315   SB        
+22    Anna Ostlender                  Neo      GER   38.79   +1.350             
+23    McKenzie Browne                 Senior   USA   38.80   +1.360   SB        
+24    Luisa María Gonzalez Salazar    Neo      ESP   38.87   +1.430   SB        
+25    Carina Jagtøyen                 Senior   NOR   38.96   +1.520   SB        
+26    Jenna Larter                    Neo      CAN   39.02   +1.580             
+27    Darja Vazhenina                 Neo      KAZ   39.07   +1.630             
+28    Inessa Shumekova                Neo      KAZ   39.15   +1.710   PB        
+29    Mihaela Hogas                   Senior   ROU   39.26   +1.820   SB        
+30    Margarita Galiyeva              Neo      KAZ   39.49   +2.050             
+31    Kaitlyn McGregor                Senior   SUI   39.58   +2.140   SB        
+32    Laura Kivioja                   Neo      FIN   39.87   +2.430             
+
+
+
+500 meter (Men), 26.01.2025
+
+POS   NAME                         AG       NAT   TIME    DIFF     RECORD   
+1     Yevgeniy Koshkin             Neo      KAZ   34.39            SB       
+2     Ryota Kojima                 Senior   JPN   34.45   +0.064   PB       
+3     Anders Johnson               Senior   CAN   34.45   +0.067            
+4     Mats van den Bos             Neo      NED   34.59   +0.200            
+5     David Bosa                   Senior   ITA   34.71   +0.320   SB       
+6     Tae-Yun Kim                  Senior   KOR   34.72   +0.330   SB       
+7     Christopher Fiola            Senior   CAN   34.73   +0.348            
+8     Bin Liu                      A2       CHN   34.73   +0.349   PB       
+9     Nil Llop Izquierdo           Neo      ESP   34.78   +0.396   SB       
+10    Pål Myhren Kristensen        Senior   NOR   34.78   +0.397   PB       
+11    Henrik Fagerli Rukke         Senior   NOR   34.88   +0.490   SB       
+12    Piotr Michalski              Senior   POL   34.89   +0.500            
+13    Hendrik Dombek               Senior   GER   34.98   +0.590   SB       
+14    Issa Gunji                   Neo      JPN   35.11   +0.720            
+15    Kyungmin Koo                 Neo      KOR   35.13   +0.740   SB       
+16    Cristian Landrø Magnussen    Neo      NOR   35.25   +0.860   SB       
+17    Antoine Roger                Senior   CAN   35.27   +0.880            
+18    Min-Seok Kim                 Senior   HUN   35.30   +0.910   NR       
+19    Nikita Vazhenin              Neo      KAZ   35.36   +0.970   SB       
+20    Wei-Lin Tai                  Senior   TPE   35.40   +1.010   SB       
+21    Jakub Piotrowski             Senior   POL   35.41   +1.020   SB       
+22    Mathias Vosté                Senior   BEL   35.42   +1.030            
+23    Austin Kleba                 Senior   USA   35.47   +1.080            
+24    Ignaz Gschwentner            Neo      AUT   35.50   +1.110   SB       
+25    Moritz Klein                 Senior   GER   35.52   +1.130   SB       
+26    Daniel Milagros              Neo      ESP   35.61   +1.220            
+27    Cédrick Brunet               Senior   CAN   35.65   +1.260            
+28    Oliver Grob                  Senior   SUI   35.71   +1.320            
+29    Robbe Beelen                 Neo      BEL   35.78   +1.390   SB       
+30    Tuukka Suomalainen           Neo      FIN   35.86   +1.470            
+DQ    Haonan Du                    Senior   CHN   -                         
+
+
+
+Mass Start (Women), 26.01.2025
+
+POS   NAME                     AG       NAT   TIME      DIFF        RECORD   
+1     Francesca Lollobrigida   Senior   ITA   9:14.96                        
+2     Ayano Sato               Senior   JPN   9:15.33   +0.370               
+3     Alice Marletti           Neo      ITA   9:19.02   +4.060               
+4     Katerina Kainova         Neo      CZE   9:25.15   +10.190              
+5     Zuzana Kursova           Neo      CZE   9:25.23   +10.270              
+6     Anna Molnar              Neo      AUT   9:25.28   +10.320              
+7     Hanna Svenni             Neo      NOR   9:27.29   +12.330              
+8     Sara Cabrera             Senior   ESP   9:33.62   +18.660              
+9     Olga Piotrowska          Senior   POL   7:43.37   -1.31.590            
+
+
+
+Mass Start (Men), 26.01.2025
+
+POS   NAME                 AG       NAT   TIME      DIFF      RECORD   
+1     Hanbin Liu           A1       CHN   8:14.79                      
+2     Taiyo Morino         Neo      JPN   8:15.36   +0.570             
+3     Marcin Bachanek      Senior   POL   8:15.50   +0.710             
+4     Philip Due Schmidt   Senior   DEN   8:15.83   +1.040             
+5     Konrád Nagy          Senior   HUN   8:21.00   +6.210             
+6     Peter Michael        Senior   NZL   8:15.87   +1.080             
+7     Josh Whyte           Senior   NZL   8:33.81   +19.020            
+8     Viktor Hald Thorup   Senior   DEN   8:16.10   +1.310             
+9     Botond Bejczi        Senior   HUN   8:43.19   +28.400            
+10    Jake Weidemann       Senior   CAN   8:19.88   +5.090             
+11    Manuel Robla         Neo      ESP   8:16.20   +1.410             
+12    Szymon Palka         Senior   POL   8:17.44   +2.650             
+13    Vadim Yakubovskiy    Neo      KAZ   8:18.67   +3.880             
+14    Lukas Stekly         Neo      SVK   8:23.62   +8.830             
+15    Jonathan Tobon       Neo      USA   8:23.82   +9.030             
+16    Baoshuo Pan          A1       CHN   8:27.46   +12.670            
+17    Thibault Métraux     Neo      SUI   8:28.06   +13.270            
+18    Cosmin Nedelea       Senior   ROU   8:29.81   +15.020            
+19    Bagdaulet Sagatov    Neo      KAZ   8:39.49   +24.700            

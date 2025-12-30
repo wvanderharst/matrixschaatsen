@@ -1,0 +1,97 @@
+Staatsloterij Olympisch Kwalificatietoernooi
+26. - 30.12.2025
+IJsstadion Thialf (NED)
+
+5000 meter (Men), 26.12.2025
+
+POS   NAME                       AG       NAT   TIME      DIFF      RECORD   
+1     Stijn van de Bunt          Neo      NED   6:09.30             PB       
+2     Chris Huizinga             Senior   NED   6:12.10   +2.799             
+3     Marcel Bosker              Senior   NED   6:13.10   +3.796             
+4     Jorrit Bergsma             Senior   NED   6:14.31   +5.005             
+5     Beau Snellink              Senior   NED   6:16.11   +6.805             
+6     Kars Jansman               Senior   NED   6:16.28   +6.972             
+7     Wisse Slendebroek          Neo      NED   6:18.96   +9.655             
+8     Tjerk de Boer              Senior   NED   6:20.05   +10.750            
+9     Albertus (Bart) Hoolwerf   Senior   NED   6:20.91   +11.604   PB       
+10    Jasper Krommenhoek         Neo      NED   6:21.31   +12.005            
+11    Remco Stam                 Neo      NED   6:21.95   +12.648            
+12    Daan Gelling               Senior   NED   6:22.68   +13.377   PB       
+13    Marwin Talsma              Senior   NED   6:26.04   +16.737   SB       
+14    Patrick Roest              Senior   NED   6:26.27   +16.970            
+15    Ede-Konrad Kortlever       A2       NED   6:26.93   +17.621   PB       
+16    Thijs Wiersma              A1       NED   6:27.81   +18.507   PB       
+17    Mats Bendijk               Neo      NED   6:30.68   +21.377            
+18    Chris Brommersma           Neo      NED   6:39.31   +30.007            
+
+
+
+10.000 meter (Men), 28.12.2025
+
+POS   NAME                       AG       NAT   TIME       DIFF      RECORD   
+1     Stijn van de Bunt          Neo      NED   12:36.35             PB       
+2     Jorrit Bergsma             Senior   NED   12:45.52   +9.168             
+3     Marcel Bosker              Senior   NED   12:45.98   +9.630             
+4     Chris Huizinga             Senior   NED   12:50.83   +14.485            
+5     Wisse Slendebroek          Neo      NED   12:51.37   +15.021            
+6     Kars Jansman               Senior   NED   12:53.48   +17.136            
+7     Remco Stam                 Neo      NED   13:01.56   +25.212   PB       
+8     Daan Gelling               Senior   NED   13:04.73   +28.384   PB       
+9     Beau Snellink              Senior   NED   13:11.28   +34.934            
+10    Jasper Krommenhoek         Neo      NED   13:12.52   +36.174            
+11    Tjerk de Boer              Senior   NED   13:19.04   +42.696            
+12    Marwin Talsma              Senior   NED   13:25.07   +48.725   SB       
+WDR   Albertus (Bart) Hoolwerf   Senior   NED   -                             
+
+
+
+1500 meter (Women), 29.12.2025
+
+POS   NAME                        AG       NAT   TIME      DIFF     RECORD   
+1     Antoinette Rijpma-de Jong   Senior   NED   1:53.02                     
+2     Femke Kok                   Senior   NED   1:53.03   +0.011            
+3     Marijke Groenewoud          Senior   NED   1:53.05   +0.023   PB       
+4     Joy Beune                   Senior   NED   1:53.22   +0.193            
+5     Chloé Hoogendoorn           Neo      NED   1:54.35   +1.329   PB       
+6     Isabel Grevelt              Senior   NED   1:54.97   +1.945   PB       
+7     Meike Veen                  Neo      NED   1:55.67   +2.646   PB       
+8     Jutta Leerdam               Senior   NED   1:55.69   +2.665   SB       
+9     Pien Smit                   Neo      NED   1:56.56   +3.533   PB       
+10    Angel Daleman               A2       NED   1:56.57   +3.550            
+11    Gioya Lancee                Senior   NED   1:56.61   +3.583   SB       
+12    Melissa Wijfje              Senior   NED   1:56.88   +3.856            
+13    Esther Kiel                 Senior   NED   1:58.17   +5.152   SB       
+14    Leonie Bats                 Senior   NED   1:58.67   +5.645   PB       
+15    Evelien Vijn                Neo      NED   1:59.10   +6.080   SB       
+16    Sanne Westra                Neo      NED   2:00.00   +6.977   PB       
+17    Rosalie van Vliet           Neo      NED   2:00.12   +7.098   SB       
+18    Mette ten Cate              A1       NED   2:00.76   +7.738   SB       
+19    Sophie Exterkate            A2       NED   2:02.12   +9.094   PB       
+20    Evi de Ruijter              A2       NED   2:02.66   +9.641            
+
+
+
+1000 meter (Men), 29.12.2025
+
+POS   NAME                       AG       NAT   TIME      DIFF     RECORD   
+1     Jenning de Boo             Neo      NED   1:06.84                     
+2     Joep Wennemars             Neo      NED   1:07.34   +0.504            
+3     Kjeld Nuis                 Senior   NED   1:07.54   +0.698            
+4     Tim Prins                  Neo      NED   1:07.54   +0.703            
+5     Merijn Scheperkamp         Senior   NED   1:08.37   +1.530   SB       
+6     Tijmen Snel                Senior   NED   1:08.40   +1.560   SB       
+7     Kayo Vos                   Neo      NED   1:08.41   +1.567   PB       
+8     Serge Yoro                 Senior   NED   1:08.86   +2.026            
+9     Louis Hollaar              Senior   NED   1:08.97   +2.134   SB       
+10    Mats Siemons               Neo      NED   1:09.07   +2.230   SB       
+11    Kai Verbij                 Senior   NED   1:09.07   +2.232            
+12    Wesly Dijs                 Senior   NED   1:09.41   +2.574            
+13    Janno Botman               Senior   NED   1:09.47   +2.636   SB       
+14    Sebastian Diniz            Senior   NED   1:09.74   +2.897   PB       
+15    Albertus (Bart) Hoolwerf   Senior   NED   1:10.37   +3.527            
+16    Nathan Pijl                A2       NED   1:10.45   +3.611            
+17    Ties van Seumeren          Neo      NED   1:10.48   +3.644            
+18    Sijmen Egberts             Neo      NED   1:10.63   +3.793            
+19    Arjen Boersma              A2       NED   1:13.53   +6.693            
+DQ    Stefan Westenbroek         Senior   NED   -                           
+

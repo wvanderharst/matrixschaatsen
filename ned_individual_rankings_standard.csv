@@ -1,0 +1,88 @@
+Athlete,Event,Gender,Avg_Finish,Win_Prob
+Jenning de Boo,1000 meter (Men),Men,3.328,0.1435
+Kjeld Nuis,1500 meter (Men),Men,5.034,0.0623
+Jenning de Boo,500 meter (Men),Men,5.757,0.2443
+Tim Prins,1000 meter (Men),Men,6.537,0.0122
+Kjeld Nuis,1000 meter (Men),Men,6.607,0.0048
+Tim Prins,1500 meter (Men),Men,6.692,0.0063
+Beau Snellink,5000 meter (Men),Men,8.766,0.021
+Joep Wennemars,1000 meter (Men),Men,10.121,0.0094
+Chris Huizinga,5000 meter (Men),Men,10.252,0.304
+Jorrit Bergsma,Mass Start (Men),Men,10.428,0.4198
+Serge Yoro,1000 meter (Men),Men,10.457,0.0005
+Jorrit Bergsma,10.000 meter (Men),Men,10.635,0.0
+Albertus (Bart) Hoolwerf,Mass Start (Men),Men,11.643,0.077
+Sebastian Diniz,500 meter (Men),Men,13.17,0.0075
+Merijn Scheperkamp,1000 meter (Men),Men,14.744,0.0
+Wesly Dijs,1500 meter (Men),Men,15.597,0.0
+Janno Botman,500 meter (Men),Men,16.07,0.0001
+Kars Jansman,10.000 meter (Men),Men,16.792,0.0012
+Jorrit Bergsma,5000 meter (Men),Men,16.925,0.0
+Marwin Talsma,5000 meter (Men),Men,17.93,0.0
+Beau Snellink,10.000 meter (Men),Men,18.615,0.0013
+Chris Huizinga,10.000 meter (Men),Men,19.518,0.0
+Marcel Bosker,5000 meter (Men),Men,19.999,0.0001
+Stefan Westenbroek,500 meter (Men),Men,20.334,0.0
+Tjerk de Boer,5000 meter (Men),Men,20.659,0.0
+Kars Jansman,5000 meter (Men),Men,20.696,0.0
+Merijn Scheperkamp,500 meter (Men),Men,21.424,0.0013
+Tijmen Snel,1500 meter (Men),Men,21.7,0.0004
+Joep Wennemars,500 meter (Men),Men,22.353,0.0
+Joep Wennemars,1500 meter (Men),Men,24.091,0.0022
+Serge Yoro,1500 meter (Men),Men,26.936,0.0
+Wesly Dijs,1000 meter (Men),Men,27.725,0.0
+Jasper Krommenhoek,5000 meter (Men),Men,30.313,0.0
+Tijmen Snel,1000 meter (Men),Men,31.813,0.0
+Mats van den Bos,500 meter (Men),Men,31.915,0.0
+Marcel Bosker,10.000 meter (Men),Men,32.756,0.0
+Marwin Talsma,10.000 meter (Men),Men,33.532,0.0001
+Albertus (Bart) Hoolwerf,1500 meter (Men),Men,35.35,0.0
+Dai Dai Ntab,500 meter (Men),Men,37.197,0.0
+Serge Yoro,500 meter (Men),Men,47.308,0.0
+Kai Verbij,1000 meter (Men),Men,48.574,0.0
+Femke Kok,500 meter (Women),Women,2.003,0.8005
+Joy Beune,5000 meter (Women),Women,2.255,0.3429
+Joy Beune,3000 meter (Women),Women,2.522,0.1864
+Femke Kok,1000 meter (Women),Women,2.754,0.1843
+Jutta Leerdam,1000 meter (Women),Women,4.231,0.2272
+Merel Conijn,5000 meter (Women),Women,4.477,0.3601
+Joy Beune,1500 meter (Women),Women,4.613,0.6685
+Antoinette Rijpma-de Jong,1500 meter (Women),Women,5.905,0.0118
+Sanne In 't Hof,5000 meter (Women),Women,6.434,0.0132
+Merel Conijn,3000 meter (Women),Women,7.857,0.1088
+Angel Daleman,1000 meter (Women),Women,8.06,0.0008
+Suzanne Schulting,500 meter (Women),Women,8.471,0.0304
+Jutta Leerdam,500 meter (Women),Women,9.238,0.0065
+Marijke Groenewoud,Mass Start (Women),Women,9.618,0.2443
+Antoinette Rijpma-de Jong,1000 meter (Women),Women,9.852,0.003
+Marrit Fledderus,1000 meter (Women),Women,10.26,0.0017
+Marrit Fledderus,500 meter (Women),Women,11.389,0.0006
+Marijke Groenewoud,3000 meter (Women),Women,11.584,0.0165
+Naomi Verkerk,500 meter (Women),Women,11.723,0.0012
+Sanne In 't Hof,3000 meter (Women),Women,13.052,0.0
+Dione Voskamp,500 meter (Women),Women,13.281,0.0044
+Anna Boersma,500 meter (Women),Women,13.542,0.0
+Bente Kerkhoff,5000 meter (Women),Women,14.342,0.0003
+Angel Daleman,1500 meter (Women),Women,15.595,0.0033
+Melissa Wijfje,1500 meter (Women),Women,15.613,0.0
+Marijke Groenewoud,5000 meter (Women),Women,15.664,0.0082
+Elisa Dul,Mass Start (Women),Women,15.852,0.005
+Suzanne Schulting,1000 meter (Women),Women,16.782,0.0005
+Marijke Groenewoud,1500 meter (Women),Women,17.51,0.0545
+Bente Kerkhoff,Mass Start (Women),Women,17.59,0.0
+Angel Daleman,500 meter (Women),Women,18.175,0.0
+Bente Kerkhoff,3000 meter (Women),Women,19.545,0.0
+Isabel Grevelt,1000 meter (Women),Women,20.853,0.0011
+Chloé Hoogendoorn,500 meter (Women),Women,22.597,0.0
+Naomi Verkerk,1000 meter (Women),Women,24.344,0.0
+Melissa Wijfje,3000 meter (Women),Women,27.431,0.0
+Meike Veen,1000 meter (Women),Women,28.597,0.0
+Michelle de Jong,500 meter (Women),Women,29.071,0.0
+Chloé Hoogendoorn,1000 meter (Women),Women,29.317,0.0
+Elisa Dul,3000 meter (Women),Women,30.857,0.0
+Melissa Wijfje,Mass Start (Women),Women,31.652,0.0
+Isabel Grevelt,500 meter (Women),Women,31.854,0.0
+Chloé Hoogendoorn,1500 meter (Women),Women,32.189,0.0
+Meike Veen,1500 meter (Women),Women,34.476,0.0
+Elisa Dul,1500 meter (Women),Women,35.97,0.0
+Elisa Dul,5000 meter (Women),Women,43.562,0.0
