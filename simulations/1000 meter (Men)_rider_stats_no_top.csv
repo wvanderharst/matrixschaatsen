@@ -1,19 +1,4 @@
-Athlete,Qualify_Prob,Win_Prob,Podium_Prob
-Tim Prins,0.8808,0.0256,0.353
-Kjeld Nuis,0.8961,0.0137,0.2927
-Joep Wennemars,0.7203,0.0197,0.2246
-Serge Yoro,0.2195,0.0001,0.0055
-Merijn Scheperkamp,0.1657,0.0,0.002
-Kayo Vos,0.1001,0.0,0.0006
-Tijmen Snel,0.0042,0.0,0.0
-Louis Hollaar,0.0073,0.0,0.0
-Wesly Dijs,0.0013,0.0,0.0
-Mats Siemons,0.004,0.0,0.0
-Kai Verbij,0.0,0.0,0.0
-Janno Botman,0.0007,0.0,0.0
-Sebastian Diniz,0.0,0.0,0.0
-Albertus (Bart) Hoolwerf,0.0,0.0,0.0
-Nathan Pijl,0.0,0.0,0.0
-Ties van Seumeren,0.0,0.0,0.0
-Sijmen Egberts,0.0,0.0,0.0
-Arjen Boersma,0.0,0.0,0.0
+Athlete,Win_Prob,Podium_Prob
+Joep Wennemars,0.0258,0.2947
+Tim Prins,0.0245,0.3692
+Kjeld Nuis,0.0139,0.2964

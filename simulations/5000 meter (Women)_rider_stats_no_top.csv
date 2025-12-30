@@ -1,6 +1,4 @@
-Athlete,Qualify_Prob,Win_Prob,Podium_Prob
-Merel Conijn,0.9473,0.4339,0.6732
-Sanne In 't Hof,0.9549,0.0418,0.2928
-Bente Kerkhoff,0.5394,0.0003,0.0094
-Marijke Groenewoud,0.5535,0.0113,0.0564
-Elisa Dul,0.0049,0.0,0.0
+Athlete,Win_Prob,Podium_Prob
+Joy Beune,0.5299,0.9206
+Sanne In 't Hof,0.0237,0.2724
+Marijke Groenewoud,0.0142,0.0873

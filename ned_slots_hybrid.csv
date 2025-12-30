@@ -1,36 +1,36 @@
 Event,Gender,Slot,Win_Prob,Podium_Prob
-Mass Start (Men),Men,Protected 1,0.4252,0.5916
-5000 meter (Men),Men,Protected 1,0.3346,0.9765
-10.000 meter (Men),Men,Protected 1,0.2577,0.9938
-500 meter (Men),Men,Protected 1,0.2393,0.5771
-5000 meter (Men),Men,Protected 2,0.2083,0.5201
-1000 meter (Men),Men,Protected 1,0.16,0.7983
-Mass Start (Men),Men,Trial Winner 1,0.0777,0.3013
-1500 meter (Men),Men,Trial Winner 1,0.0431,0.3485
-1500 meter (Men),Men,Trial Winner 2,0.0198,0.1812
-1000 meter (Men),Men,Trial Winner 1,0.0105,0.2418
-1000 meter (Men),Men,Trial Winner 2,0.0078,0.2089
-1500 meter (Men),Men,Trial Winner 3,0.0066,0.064
-500 meter (Men),Men,Trial Winner 1,0.0046,0.0471
-500 meter (Men),Men,Trial Winner 2,0.0019,0.0218
-5000 meter (Men),Men,Trial Winner 1,0.0015,0.051
-10.000 meter (Men),Men,Trial Winner 1,0.0001,0.0461
+Mass Start (Men),Men,Protected 1,0.426,0.6003
+5000 meter (Men),Men,Protected 1,0.3337,0.9762
+10.000 meter (Men),Men,Protected 1,0.2539,0.9944
+500 meter (Men),Men,Protected 1,0.2485,0.5811
+5000 meter (Men),Men,Protected 2,0.2185,0.5229
+1000 meter (Men),Men,Protected 1,0.164,0.8043
+Mass Start (Men),Men,Trial Winner 1,0.079,0.2985
+1500 meter (Men),Men,Trial Winner 1,0.0416,0.3333
+1500 meter (Men),Men,Trial Winner 2,0.0189,0.1804
+1000 meter (Men),Men,Trial Winner 2,0.0096,0.2147
+1000 meter (Men),Men,Trial Winner 1,0.009,0.2463
+1500 meter (Men),Men,Trial Winner 3,0.0079,0.0624
+500 meter (Men),Men,Trial Winner 1,0.005,0.0538
+500 meter (Men),Men,Trial Winner 2,0.0022,0.0209
+5000 meter (Men),Men,Trial Winner 1,0.0009,0.0537
+10.000 meter (Men),Men,Trial Winner 1,0.0001,0.0473
 10.000 meter (Men),Men,Trial Winner 2,0.0001,0.0282
-500 meter (Women),Women,Protected 1,0.8072,0.9384
-1500 meter (Women),Women,Protected 1,0.6282,0.7879
-5000 meter (Women),Women,Protected 1,0.3689,0.6553
-5000 meter (Women),Women,Protected 2,0.3394,0.8655
-Mass Start (Women),Women,Protected 1,0.2375,0.4947
-1000 meter (Women),Women,Protected 1,0.2279,0.7557
-3000 meter (Women),Women,Protected 1,0.1974,0.8575
-1000 meter (Women),Women,Protected 2,0.1876,0.8549
-3000 meter (Women),Women,Protected 2,0.104,0.4948
-1500 meter (Women),Women,Trial Winner 1,0.0255,0.2194
-1500 meter (Women),Women,Trial Winner 2,0.0184,0.1999
-500 meter (Women),Women,Trial Winner 1,0.0152,0.2487
-5000 meter (Women),Women,Trial Winner 1,0.0107,0.1397
-3000 meter (Women),Women,Trial Winner 1,0.0098,0.121
-500 meter (Women),Women,Trial Winner 2,0.0075,0.1477
-1000 meter (Women),Women,Trial Winner 1,0.003,0.0875
-Mass Start (Women),Women,Trial Winner 1,0.0027,0.0333
-Mass Start (Women),Women,Trial Winner 2,0.0006,0.0067
+500 meter (Women),Women,Protected 1,0.8032,0.9395
+1500 meter (Women),Women,Protected 1,0.6278,0.7866
+5000 meter (Women),Women,Protected 1,0.3667,0.6485
+5000 meter (Women),Women,Protected 2,0.3505,0.8671
+Mass Start (Women),Women,Protected 1,0.2419,0.4871
+1000 meter (Women),Women,Protected 1,0.2307,0.7609
+3000 meter (Women),Women,Protected 1,0.1968,0.8604
+1000 meter (Women),Women,Protected 2,0.183,0.8608
+3000 meter (Women),Women,Protected 2,0.1123,0.5064
+1500 meter (Women),Women,Trial Winner 1,0.024,0.227
+500 meter (Women),Women,Trial Winner 1,0.0157,0.2473
+1500 meter (Women),Women,Trial Winner 2,0.0148,0.2073
+5000 meter (Women),Women,Trial Winner 1,0.0122,0.1463
+3000 meter (Women),Women,Trial Winner 1,0.0111,0.1255
+500 meter (Women),Women,Trial Winner 2,0.0076,0.1493
+Mass Start (Women),Women,Trial Winner 1,0.0035,0.0364
+1000 meter (Women),Women,Trial Winner 1,0.0021,0.084
+Mass Start (Women),Women,Trial Winner 2,0.0005,0.0083

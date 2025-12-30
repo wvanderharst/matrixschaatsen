@@ -4,7 +4,7 @@ import scipy.stats as stats
 import os
 import glob
 
-def run_all_skating_simulations(profiles_folder, simulations_folder, n_sims=10000):
+def run_all_skating_simulations(profiles_folder, simulations_folder, n_sims=10000, n_baseline=1000):
     if not os.path.exists(simulations_folder):
         os.makedirs(simulations_folder)
 
@@ -23,15 +23,55 @@ def run_all_skating_simulations(profiles_folder, simulations_folder, n_sims=1000
         non_ned_df = df[df['Country'] != 'NED'].copy().reset_index(drop=True)
         if len(ned_df_full) == 0: continue
 
+        # ensure number of NED slots is defined up-front
+        n_slots = min(3, len(ned_df_full))
+        
         rows = np.arange(n_sims)
         intl_times = np.array([stats.lognorm.rvs(s=r['Shape'], scale=r['Scale'], size=n_sims) for _, r in non_ned_df.iterrows()]).T
         ned_trial_times = np.array([stats.lognorm.rvs(s=r['Shape'], scale=r['Scale'], size=n_sims) for _, r in ned_df_full.iterrows()]).T
         ned_final_times = np.array([stats.lognorm.rvs(s=r['Shape'], scale=r['Scale'], size=n_sims) for _, r in ned_df_full.iterrows()]).T
 
+        # --- Baseline: multiple simulations to rank NED athletes by Gold wins ---
+        nb = min(n_baseline, max(1, n_baseline))
+        # baseline draws for international and NED final times
+        baseline_intl = np.array([stats.lognorm.rvs(s=r['Shape'], scale=r['Scale'], size=nb) for _, r in non_ned_df.iterrows()]).T  # shape (nb, n_intl)
+        baseline_ned_final = np.array([stats.lognorm.rvs(s=r['Shape'], scale=r['Scale'], size=nb) for _, r in ned_df_full.iterrows()]).T  # shape (nb, n_ned)
+
+        # combine and compute ranks per baseline sim
+        if baseline_ned_final.size == 0:
+            # no NED athletes (should be skipped earlier), but safe-guard
+            baseline_gold_counts = np.array([])
+            top_indices = np.array([], dtype=int)
+        else:
+            field_baseline = np.hstack([baseline_ned_final, baseline_intl])
+            ranks_baseline = field_baseline.argsort(axis=1).argsort(axis=1) + 1  # 1 = best
+            n_ned = baseline_ned_final.shape[1]
+            # For each baseline sim, check which NED (if any) got rank 1
+            first_places = np.argmin(field_baseline, axis=1)  # column index of best
+            # count golds for NED athletes (indices 0..n_ned-1)
+            baseline_gold_counts = np.array([(first_places == i).sum() for i in range(n_ned)])
+            # select top by gold counts (most golds). tie-breaking by lower mean baseline time
+            baseline_mean_times = baseline_ned_final.mean(axis=0)
+            tie_breaker = np.argsort(baseline_mean_times)  # lower mean time better
+            order_by_gold = np.lexsort((tie_breaker, -baseline_gold_counts))  # primary: -gold_counts, secondary: tie_breaker
+            top_indices = order_by_gold[:n_slots]
+
+        # save baseline rider stats per event
+        rider_stats_base = []
+        if baseline_ned_final.size:
+            for idx, row in ned_df_full.iterrows():
+                golds = int(baseline_gold_counts[idx])
+                gold_prob = golds / nb
+                # podium prob from baseline ranks: count times that athlete in top 3
+                podiums = (ranks_baseline[:, idx] <= 3).sum()
+                rider_stats_base.append({'Athlete': row['Athlete'], 'Baseline_Gold_Count': golds, 'Baseline_Gold_Prob': gold_prob, 'Baseline_Podium_Prob': podiums / nb})
+            df_base = pd.DataFrame(rider_stats_base)
+            if not df_base.empty and 'Baseline_Gold_Prob' in df_base.columns:
+                df_base = df_base.sort_values('Baseline_Gold_Prob', ascending=False)
+            df_base.to_csv(os.path.join(simulations_folder, f"{event_raw}_rider_stats_baseline.csv"), index=False)
+
         # --- 1. STANDARD ---
-        ned_means = ned_df_full['Scale'] * np.exp((ned_df_full['Shape']**2) / 2)
-        n_slots = min(3, len(ned_df_full))
-        top_indices = np.argsort(ned_means.values)[:n_slots]
+        # top_indices already selected by baseline gold counts above
         field_std = np.hstack([ned_final_times[:, top_indices], intl_times])
         ranks_std = field_std.argsort(axis=1).argsort(axis=1) + 1
         
@@ -43,7 +83,10 @@ def run_all_skating_simulations(profiles_folder, simulations_folder, n_sims=1000
             event_win_prob_std += w_p
             rider_stats_std.append({'Athlete': ned_df_full.iloc[idx]['Athlete'], 'Win_Prob': w_p, 'Podium_Prob': p_p})
             slots_std.append({'Event': event_name, 'Gender': gender, 'Slot': f"Top Potential {i+1}", 'Win_Prob': w_p, 'Podium_Prob': p_p})
-        pd.DataFrame(rider_stats_std).to_csv(os.path.join(simulations_folder, f"{event_raw}_rider_stats_std.csv"), index=False)
+        df_std = pd.DataFrame(rider_stats_std)
+        if not df_std.empty and 'Win_Prob' in df_std.columns:
+            df_std = df_std.sort_values('Win_Prob', ascending=False)
+        df_std.to_csv(os.path.join(simulations_folder, f"{event_raw}_rider_stats_std.csv"), index=False)
 
         # --- 2. DYNAMIC ---
         q_dyn = np.argsort(ned_trial_times, axis=1)[:, :n_slots]
@@ -62,7 +105,10 @@ def run_all_skating_simulations(profiles_folder, simulations_folder, n_sims=1000
                 rider_stats_dyn.append({'Athlete': row['Athlete'], 'Qualify_Prob': 0, 'Win_Prob': 0, 'Podium_Prob': 0})
         for i in range(n_slots):
             slots_dyn.append({'Event': event_name, 'Gender': gender, 'Slot': f"Trial Rank {i+1}", 'Win_Prob': np.sum(ranks_dyn[:, i] == 1) / n_sims, 'Podium_Prob': np.sum(ranks_dyn[:, i] <= 3) / n_sims})
-        pd.DataFrame(rider_stats_dyn).to_csv(os.path.join(simulations_folder, f"{event_raw}_rider_stats_dyn.csv"), index=False)
+        df_dyn = pd.DataFrame(rider_stats_dyn)
+        if not df_dyn.empty and 'Win_Prob' in df_dyn.columns:
+            df_dyn = df_dyn.sort_values('Win_Prob', ascending=False)
+        df_dyn.to_csv(os.path.join(simulations_folder, f"{event_raw}_rider_stats_dyn.csv"), index=False)
 
         # --- 3. HYBRID ---
         std_win_map = {r['Athlete']: r['Win_Prob'] for r in rider_stats_std}
@@ -88,53 +134,60 @@ def run_all_skating_simulations(profiles_folder, simulations_folder, n_sims=1000
         for i in range(n_slots):
             lbl = f"Protected {i+1}" if i < len(prot_idx) else f"Trial Winner {i - len(prot_idx) + 1}"
             slots_hyb.append({'Event': event_name, 'Gender': gender, 'Slot': lbl, 'Win_Prob': np.sum(ranks_hyb[:, i] == 1) / n_sims, 'Podium_Prob': np.sum(ranks_hyb[:, i] <= 3) / n_sims})
-        pd.DataFrame(rider_stats_hyb).to_csv(os.path.join(simulations_folder, f"{event_raw}_rider_stats_hyb.csv"), index=False)
+        df_hyb = pd.DataFrame(rider_stats_hyb)
+        if not df_hyb.empty and 'Win_Prob' in df_hyb.columns:
+            df_hyb = df_hyb.sort_values('Win_Prob', ascending=False)
+        df_hyb.to_csv(os.path.join(simulations_folder, f"{event_raw}_rider_stats_hyb.csv"), index=False)
 
         # --- 4. NO TOP ATHLETE + LOSS CALCULATION ---
-        top_athlete_idx = np.argmin(ned_means.values)
+        # Make this option identical to STANDARD but with the single best athlete (by baseline golds) excluded
+        if len(top_indices) == 0:
+            continue
+        top_athlete_idx = int(top_indices[0])
         top_athlete_name = ned_df_full.iloc[top_athlete_idx]['Athlete']
-        ned_df_nt = ned_df_full.drop(top_athlete_idx).reset_index(drop=True)
-        n_slots_nt = min(3, len(ned_df_nt))
+        # use the full baseline ordering (order_by_gold) to determine the remaining ranking
+        sorted_idx = list(order_by_gold)
+        remaining_idx = [i for i in sorted_idx if i != top_athlete_idx]
+        n_slots_nt = min(3, len(remaining_idx))
 
         if n_slots_nt > 0:
-            trial_nt = np.array([stats.lognorm.rvs(s=r['Shape'], scale=r['Scale'], size=n_sims) for _, r in ned_df_nt.iterrows()]).T
-            final_nt = np.array([stats.lognorm.rvs(s=r['Shape'], scale=r['Scale'], size=n_sims) for _, r in ned_df_nt.iterrows()]).T
-            q_nt = np.argsort(trial_nt, axis=1)[:, :n_slots_nt]
-            field_nt = np.hstack([final_nt[rows[:, None], q_nt], intl_times])
+            top_indices_nt = remaining_idx[:n_slots_nt]
+            # Use the already-generated final times for consistency with STANDARD
+            field_nt = np.hstack([ned_final_times[:, top_indices_nt], intl_times])
             ranks_nt = field_nt.argsort(axis=1).argsort(axis=1) + 1
-            
+
             event_win_prob_nt = 0
             rider_stats_nt = []
-            for idx, row in ned_df_nt.iterrows():
-                mask = np.any(q_nt == idx, axis=1)
-                if np.any(mask):
-                    pos = (q_nt[mask] == idx).argmax(axis=1)
-                    finishes = ranks_nt[mask, pos]
-                    w_p = np.sum(finishes == 1) / n_sims
-                    event_win_prob_nt += w_p
-                    rider_stats_nt.append({'Athlete': row['Athlete'], 'Qualify_Prob': np.mean(mask), 'Win_Prob': w_p, 'Podium_Prob': np.sum(finishes <= 3) / n_sims})
-                else:
-                    rider_stats_nt.append({'Athlete': row['Athlete'], 'Qualify_Prob': 0, 'Win_Prob': 0, 'Podium_Prob': 0})
-            
+            # Collect stats for the selected athletes (indices are relative to ned_df_full)
+            for idx in top_indices_nt:
+                row = ned_df_full.iloc[idx]
+                w_p = np.sum(ranks_nt[:, top_indices_nt.index(idx)] == 1) / n_sims
+                p_p = np.sum(ranks_nt[:, top_indices_nt.index(idx)] <= 3) / n_sims
+                event_win_prob_nt += w_p
+                rider_stats_nt.append({'Athlete': row['Athlete'], 'Win_Prob': w_p, 'Podium_Prob': p_p})
+
             # Bereken het verlies in winstkans voor deze afstand
             event_loss = event_win_prob_nt - event_win_prob_std
-            
-            for i in range(n_slots_nt):
+
+            for i, idx in enumerate(top_indices_nt):
                 slots_no_top.append({
-                    'Event': event_name, 'Gender': gender, 'Slot': f"Sub-Top Trial {i+1}", 
-                    'Win_Prob': np.sum(ranks_nt[:, i] == 1) / n_sims, 
+                    'Event': event_name, 'Gender': gender, 'Slot': f"Top without Best {i+1}",
+                    'Win_Prob': np.sum(ranks_nt[:, i] == 1) / n_sims,
                     'Podium_Prob': np.sum(ranks_nt[:, i] <= 3) / n_sims,
                     'Excluded_Athlete': top_athlete_name,
                     'Event_Win_Loss_vs_Std': round(event_loss, 4)
                 })
-            pd.DataFrame(rider_stats_nt).to_csv(os.path.join(simulations_folder, f"{event_raw}_rider_stats_no_top.csv"), index=False)
+            df_nt = pd.DataFrame(rider_stats_nt)
+            if not df_nt.empty and 'Win_Prob' in df_nt.columns:
+                df_nt = df_nt.sort_values('Win_Prob', ascending=False)
+            df_nt.to_csv(os.path.join(simulations_folder, f"{event_raw}_rider_stats_no_top.csv"), index=False)
 
     # --- FINALIZE ---
     def finalize(data, name, sort_cols=['Gender', 'Win_Prob'], asc=[True, False]):
         df_res = pd.DataFrame(data)
         if not df_res.empty:
             df_res = df_res.sort_values(sort_cols, ascending=asc)
-            df_res.to_csv(name, index=False)
+            df_res.to_csv(os.path.join(simulations_folder, name), index=False)
         return df_res
 
     finalize(slots_std, 'ned_slots_standard.csv')

@@ -1,7 +1,4 @@
-Athlete,Qualify_Prob,Win_Prob,Podium_Prob
-Tim Prins,0.9786,0.0094,0.1977
-Wesly Dijs,0.6682,0.0,0.0009
-Tijmen Snel,0.5013,0.0005,0.0082
-Joep Wennemars,0.4908,0.0015,0.0192
-Serge Yoro,0.2522,0.0,0.0007
-Albertus (Bart) Hoolwerf,0.1089,0.0,0.0
+Athlete,Win_Prob,Podium_Prob
+Tim Prins,0.0114,0.1995
+Joep Wennemars,0.0034,0.0405
+Wesly Dijs,0.0,0.0026

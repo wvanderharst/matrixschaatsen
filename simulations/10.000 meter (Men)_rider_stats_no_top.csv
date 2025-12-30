@@ -1,12 +1,4 @@
-Athlete,Qualify_Prob,Win_Prob,Podium_Prob
-Wisse Slendebroek,0.6495,0.0066,0.1341
-Jorrit Bergsma,0.5966,0.0002,0.0285
-Kars Jansman,0.4344,0.002,0.0457
-Chris Huizinga,0.1811,0.0,0.0008
-Remco Stam,0.2776,0.0004,0.0127
-Beau Snellink,0.2069,0.0,0.0053
-Daan Gelling,0.2108,0.0001,0.0074
-Marcel Bosker,0.2368,0.0005,0.0117
-Jasper Krommenhoek,0.1056,0.0,0.0012
-Tjerk de Boer,0.0534,0.0,0.0
-Marwin Talsma,0.0473,0.0,0.0001
+Athlete,Win_Prob,Podium_Prob
+Wisse Slendebroek,0.0103,0.2139
+Marcel Bosker,0.0017,0.0544
+Jorrit Bergsma,0.0004,0.0445

@@ -1,21 +1,4 @@
-Athlete,Qualify_Prob,Win_Prob,Podium_Prob
-Antoinette Rijpma-de Jong,0.906,0.04,0.3041
-Femke Kok,0.8842,0.0471,0.2885
-Marijke Groenewoud,0.5471,0.0696,0.1642
-Angel Daleman,0.3077,0.0044,0.0236
-Melissa Wijfje,0.1348,0.0,0.0009
-Isabel Grevelt,0.0945,0.0,0.0002
-Chloé Hoogendoorn,0.0644,0.0,0.0
-Jutta Leerdam,0.027,0.0,0.0
-Meike Veen,0.0123,0.0,0.0
-Elisa Dul,0.009,0.0,0.0
-Pien Smit,0.0063,0.0,0.0
-Gioya Lancee,0.0057,0.0,0.0
-Esther Kiel,0.0005,0.0,0.0
-Leonie Bats,0.0004,0.0,0.0
-Evelien Vijn,0.0001,0.0,0.0
-Sanne Westra,0.0,0.0,0.0
-Rosalie van Vliet,0.0,0.0,0.0
-Mette ten Cate,0.0,0.0,0.0
-Sophie Exterkate,0.0,0.0,0.0
-Evi de Ruijter,0.0,0.0,0.0
+Athlete,Win_Prob,Podium_Prob
+Marijke Groenewoud,0.1319,0.297
+Femke Kok,0.0476,0.2976
+Antoinette Rijpma-de Jong,0.0417,0.3023

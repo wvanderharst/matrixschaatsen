@@ -1,0 +1,35 @@
+Event,Gender,Slot,Win_Prob,Podium_Prob,Excluded_Athlete,Event_Win_Loss_vs_Std
+Mass Start (Men),Men,Top without Best 1,0.1346,0.3578,Jorrit Bergsma,-0.3665
+10.000 meter (Men),Men,Top without Best 1,0.0103,0.2139,Stijn van de Bunt,-0.255
+10.000 meter (Men),Men,Top without Best 2,0.0017,0.0544,Stijn van de Bunt,-0.255
+10.000 meter (Men),Men,Top without Best 3,0.0004,0.0445,Stijn van de Bunt,-0.255
+500 meter (Men),Men,Top without Best 1,0.0154,0.1199,Jenning de Boo,-0.2372
+500 meter (Men),Men,Top without Best 2,0.003,0.0316,Jenning de Boo,-0.2372
+500 meter (Men),Men,Top without Best 3,0.0002,0.0089,Jenning de Boo,-0.2372
+5000 meter (Men),Men,Top without Best 1,0.2926,0.6104,Stijn van de Bunt,-0.2342
+5000 meter (Men),Men,Top without Best 2,0.0148,0.1867,Stijn van de Bunt,-0.2342
+5000 meter (Men),Men,Top without Best 3,0.0001,0.006,Stijn van de Bunt,-0.2342
+1000 meter (Men),Men,Top without Best 1,0.0258,0.2947,Jenning de Boo,-0.1126
+1000 meter (Men),Men,Top without Best 2,0.0139,0.2964,Jenning de Boo,-0.1126
+1000 meter (Men),Men,Top without Best 3,0.0245,0.3692,Jenning de Boo,-0.1126
+1500 meter (Men),Men,Top without Best 1,0.0114,0.1995,Kjeld Nuis,-0.0603
+1500 meter (Men),Men,Top without Best 2,0.0034,0.0405,Kjeld Nuis,-0.0603
+1500 meter (Men),Men,Top without Best 3,0.0,0.0026,Kjeld Nuis,-0.0603
+500 meter (Women),Women,Top without Best 1,0.1825,0.456,Femke Kok,-0.5648
+500 meter (Women),Women,Top without Best 2,0.0494,0.2568,Femke Kok,-0.5648
+500 meter (Women),Women,Top without Best 3,0.0378,0.18,Femke Kok,-0.5648
+1500 meter (Women),Women,Top without Best 1,0.1319,0.297,Joy Beune,-0.476
+1500 meter (Women),Women,Top without Best 2,0.0417,0.3023,Joy Beune,-0.476
+1500 meter (Women),Women,Top without Best 3,0.0476,0.2976,Joy Beune,-0.476
+Mass Start (Women),Women,Top without Best 1,0.0071,0.0724,Marijke Groenewoud,-0.2422
+Mass Start (Women),Women,Top without Best 2,0.0,0.0,Marijke Groenewoud,-0.2422
+Mass Start (Women),Women,Top without Best 3,0.0,0.0006,Marijke Groenewoud,-0.2422
+5000 meter (Women),Women,Top without Best 1,0.5299,0.9206,Merel Conijn,-0.1485
+5000 meter (Women),Women,Top without Best 2,0.0237,0.2724,Merel Conijn,-0.1485
+5000 meter (Women),Women,Top without Best 3,0.0142,0.0873,Merel Conijn,-0.1485
+3000 meter (Women),Women,Top without Best 1,0.1485,0.615,Joy Beune,-0.1278
+3000 meter (Women),Women,Top without Best 2,0.0327,0.3211,Joy Beune,-0.1278
+3000 meter (Women),Women,Top without Best 3,0.0,0.0053,Joy Beune,-0.1278
+1000 meter (Women),Women,Top without Best 1,0.2879,0.9128,Jutta Leerdam,-0.1171
+1000 meter (Women),Women,Top without Best 2,0.0106,0.2218,Jutta Leerdam,-0.1171
+1000 meter (Women),Women,Top without Best 3,0.0042,0.183,Jutta Leerdam,-0.1171
